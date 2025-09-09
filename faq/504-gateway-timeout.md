@@ -11,4 +11,4 @@ Não houve integração pela demora no processamento.
 - Caso o problema persista, entrar em contato com a TI.
 
 ## Palavras-chave
-timeout; integração; 504; gateway; N4; SILOG
+timeout; integração; 504; gateway; SILOG; N4
